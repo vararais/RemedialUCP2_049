@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">Remidial_UCP2</string>
+    <string name="app_name">Perpustakaan UCP2</string>
+    <string name="title_home">Daftar Buku</string>
+    <string name="title_tambah_buku">Tambah Buku</string>
+    <string name="title_edit_buku">Edit Buku</string>
+    <string name="title_manajemen_kategori">Manajemen Kategori</string>
+    <string name="title_tambah_kategori">Tambah Kategori</string>
+    <string name="label_judul">Judul Buku</string>
+    <string name="label_penulis">Penulis</string>
+    <string name="label_penerbit">Penerbit</string>
+    <string name="label_tahun">Tahun Terbit</string>
+    <string name="label_status">Status (Tersedia/Dipinjam)</string>
+    <string name="label_pilih_kategori">Pilih Kategori</string>
+    <string name="label_nama_kategori">Nama Kategori</string>
+    <string name="label_deskripsi">Deskripsi</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_hapus_semua">Hapus Kategori &amp; Buku</string>
+    <string name="btn_hapus_kategori_saja">Hapus Kategori Saja</string>
+    <string name="btn_kelola_kategori">Kategori</string>
+    <string name="info_kosong">Tidak ada data.</string>
+    <string name="info_tanpa_kategori">Tanpa Kategori</string>
+    <string name="dialog_hapus_title">Hapus Kategori?</string>
+    <string name="dialog_hapus_msg">Pilih aksi untuk buku dalam kategori ini:</string>
+    <string name="error_judul">Error</string>
+    <string name="msg_hapus_aman">Tidak bisa hapus: Masih ada buku dipinjam.</string>
 </resources>
